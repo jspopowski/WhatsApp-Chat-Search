@@ -1,5 +1,5 @@
 # WhatsApp-Chat-Search
- Python GUI that lets you import a WhatsApp chat history (.txt file), and search that history for either
+ Python GUI (en français) that lets you import a WhatsApp chat history (.txt file), and search that history for either
 1. All the times that a specific word/words were said (first search bar),
 2. All the messages from a specific date, formatted as JJ/MM/AAAA
 
