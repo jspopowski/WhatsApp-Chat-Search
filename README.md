@@ -7,4 +7,4 @@ Also, you can double-click on any given message, and a window will pop up with t
 
 I haven't gotten it to work with images yet, that's for the future.
 
-You need some sort of Python 3.x version installed on your computer. You also might need to install an additional package or two, I'm not sure. If you get an error saying No such Package while trying to run the script, just open a command prompt or terminal and do a pip install of it
+You need some sort of Python 3.x version installed on your computer. You also might need to install an additional package or two. If you get an error saying No such Package while trying to run the script, just open a command prompt or terminal and do a pip install of it
